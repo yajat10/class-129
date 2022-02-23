@@ -1,0 +1,40 @@
+#header{
+    box-shadow: 5px 5px 50px lightblue;
+    font-size: 23px;
+    width: 100%;
+}
+#note{
+    color: black    ;
+}
+body{
+    background-size : cover;
+}
+.speedgif{
+    height: 150px;
+    width: 150px;
+}
+.sd{
+    float: left;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+#volumegif{
+    height: 150px;
+    width: 150px;
+}
+.vd{
+    float: right;
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+canvas{
+    border: 12px solid violet;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px violet;
+    margin-top: 90px;
+}
+.start_song{
+    font-size: 21px;
+}
